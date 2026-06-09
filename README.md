@@ -58,6 +58,20 @@ By continuously monitoring bird sounds, environmental changes can be detected pa
 
 ---
 
+## Running the Project
+
+The original audio file (`bird_singing.wav`) is not included in this repository due to GitHub file size limitations.
+
+To run the MATLAB script:
+
+1. Obtain or record a bird vocalization audio file in `.wav` format.
+2. Rename the file as `bird_singing.wav`.
+3. Place the audio file in the same directory as `birdsong_analysis.m`.
+4. Open MATLAB and run the script.
+
+The script will automatically load the audio file, perform time-domain and frequency-domain analysis, and extract MFCC features.
+---
+
 ## Results
 
 ### Time Domain Analysis
