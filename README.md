@@ -129,21 +129,24 @@ Support wildlife conservation and environmental decision-making.
 ---
 
 ## Repository Structure
+
+```text
 ├── audio/
-│ └── bird_singing.wav
+│   └── bird_singing.wav
 │
 ├── matlab/
-│ └── birdsong_analysis.m
+│   └── birdsong_analysis.m
 │
 ├── results/
-│ ├── time_domain.png
-│ ├── frequency_spectrum.png
-│ └── mfcc.png
+│   ├── time_domain.png
+│   ├── frequency_spectrum.png
+│   └── mfcc.png
 │
 ├── report/
-│ └── EC5011_Task01_Report.pdf
+│   └── EC5011_Task01_Report.pdf
 │
 └── README.md
+```
 
 ---
 
